@@ -2,7 +2,6 @@
 
 - 📚 Cursando Bi Ciência e Tecnologia
 - 💻 Estudando JavaScript 
-- 😄 Pronouns: ela/dela
 
 <div align="center">
   <a href="https://github.com/VictoriaNeves">
